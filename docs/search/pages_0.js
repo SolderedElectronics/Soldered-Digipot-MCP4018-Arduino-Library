@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['naziv_20proizvoda_20arduino_20library_0',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['digipot_20mcp4018_20arduino_20library_0',['Digipot MCP4018 Arduino library',['../index.html',1,'']]]
 ];
