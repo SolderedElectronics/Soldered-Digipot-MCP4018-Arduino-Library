@@ -1,8 +1,8 @@
 /**
  **************************************************
  *
- * @file        Generic-easyC-SOLDERED.h
- * @brief       Header file for sensor specific code.
+ * @file        MCP4018-SOLDERED.h
+ * @brief       Header file for MCP4018 library.
  *
  *
  * @copyright GNU General Public License v3.0
