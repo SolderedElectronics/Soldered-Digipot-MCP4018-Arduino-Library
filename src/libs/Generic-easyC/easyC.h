@@ -6,7 +6,7 @@
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @authors     Borna Biro @ soldered.com
  ***************************************************/
 
 #ifndef __EASYC_LIBRARY__
@@ -18,7 +18,7 @@
 #define ANALOG_READ_REG  0
 #define DIGITAL_READ_REG 1
 
-namespace EASYC_SOLDERED_LIBS
+namespace EASYC_SOLDERED_MCP4018
 {
 
 class EasyC
