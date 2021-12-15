@@ -2,7 +2,7 @@
  **************************************************
  *
  * @file        set_digipot.ino
- * @brief       This example shows how to set desired value for digipot. It first sets digipot to 0 percent (wiper
+ * @brief       This example shows how to set the desired value for digipot. It first sets digipot to 0 percent (wiper
  *connected to GND), then 25% from GND, after that 50%, 75% and at the and it connects wiper to A pad.
  *
  * Product: Digipot 5k      - solde.red/333046
@@ -29,31 +29,31 @@ void loop()
 
     // Set digipot wiper to 0% (connected to GND).
     wiper = 0;
-    digipot.setWiper(wiper);
+    digipot.setWiperPercent(wiper);
     printDigipotData(wiper);
     delay(2000);
 
     // Set digipot wiper to 25%.
     wiper = 25;
-    digipot.setWiper(wiper);
+    digipot.setWiperPercent(wiper);
     printDigipotData(wiper);
     delay(2000);
 
     // Set digipot wiper to 50%.
     wiper = 50;
-    digipot.setWiper(wiper);
+    digipot.setWiperPercent(wiper);
     printDigipotData(wiper);
     delay(2000);
 
     // Set digipot wiper to 75%.
     wiper = 75;
-    digipot.setWiper(wiper);
+    digipot.setWiperPercent(wiper);
     printDigipotData(wiper);
     delay(2000);
 
     // Set digipot wiper to 100% (Wiper connected to A pad).
     wiper = 100;
-    digipot.setWiper(wiper);
+    digipot.setWiperPercent(wiper);
     printDigipotData(wiper);
     delay(2000);
 }

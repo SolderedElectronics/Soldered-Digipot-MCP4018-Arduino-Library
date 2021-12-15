@@ -7,8 +7,8 @@
 | :---------------------------------------------------------------------------------------------: |
 | [Digipot 5k MCP4018 breakout](https://www.solde.red/333046)                                                            |
 | [Digipot 10k MCP4018 breakout](https://www.solde.red/333091)                                                           |
-| [Digipot 10k MCP4018 breakout](https://www.solde.red/333092)                                                           |
-| [Digipot 10k MCP4018 breakout](https://www.solde.red/333093)                                                           |
+| [Digipot 50k MCP4018 breakout](https://www.solde.red/333092)                                                           |
+| [Digipot 100k MCP4018 breakout](https://www.solde.red/333093)                                                           |
 
 MCP4018 Digital Potentiometer breakout board from Soldered, compliant to [easyC ecosystem](https://www.soldered.com/easyC). 
 

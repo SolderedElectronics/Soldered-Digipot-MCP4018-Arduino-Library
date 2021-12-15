@@ -1,8 +1,8 @@
 /**
  **************************************************
  *
- * @file        Generic-easyC-SOLDERED.cpp
- * @brief       Example functions to overload in base class.
+ * @file        MCP4018-SOLDERED.cpp
+ * @brief       Source file for MCP4018 library.
  *
  *
  * @copyright GNU General Public License v3.0
@@ -13,7 +13,7 @@
 #include "MCP4018-SOLDERED.h"
 
 /**
- * @brief                   Sensor specific native constructor.
+ * @brief                   MCP4018 constructor.
  *
  */
 MCP4018_SOLDERED::MCP4018_SOLDERED()
@@ -28,7 +28,7 @@ void MCP4018_SOLDERED::initializeNative()
 {
     address = MCP4018_I2C_ADDRESS;
     Wire.begin();
-    getWord();
+    getWiperValue();
 }
 
 /**
@@ -41,7 +41,7 @@ void MCP4018_SOLDERED::setWiperPercent(int _wiper)
     if ((_wiper > 100) || (_wiper < 0))
         return;
     _value = round(_wiper / 100.0 * 127.0);
-    setWord(_value);
+    setWiperValue(_value);
 }
 
 /**
@@ -63,7 +63,7 @@ void MCP4018_SOLDERED::setWiperValue(int _byte)
  */
 int MCP4018_SOLDERED::getWiperPercent()
 {
-    return (int)round((getWord() / 127.0 * 100.0));
+    return (int)round((getWiperValue() / 127.0 * 100.0));
 }
 
 
