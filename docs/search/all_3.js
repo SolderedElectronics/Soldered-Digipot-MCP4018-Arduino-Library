@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['easyc_0',['EasyC',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#aea626d369c76c341ddbb3b3b56ca1466',1,'EASYC_SOLDERED_LIBS::EasyC::EasyC()'],['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html',1,'EASYC_SOLDERED_LIBS::EasyC']]],
-  ['easyc_2ecpp_1',['easyC.cpp',['../easy_c_8cpp.html',1,'']]],
-  ['easyc_2eh_2',['easyC.h',['../easy_c_8h.html',1,'']]],
-  ['easyc_5fsoldered_5flibs_3',['EASYC_SOLDERED_LIBS',['../namespace_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s.html',1,'']]],
-  ['err_4',['err',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a6f87367a851167043e2a67f6c0635683',1,'EASYC_SOLDERED_LIBS::EasyC']]]
+  ['decrement_0',['decrement',['../class_m_c_p4018___s_o_l_d_e_r_e_d.html#ae3a465189cff3190eac3a1cf1f21f3e1',1,'MCP4018_SOLDERED']]],
+  ['defaultaddress_1',['defaultAddress',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___m_c_p4018_1_1_easy_c.html#aa0e6ad616c7b0473d1f38b5608d2736c',1,'EASYC_SOLDERED_MCP4018::EasyC']]]
 ];

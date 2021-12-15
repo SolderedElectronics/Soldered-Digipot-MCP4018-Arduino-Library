@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['pin_0',['pin',['../class_sensor.html#a0efecf34431610766469857f25e113da',1,'Sensor']]]
+  ['native_0',['native',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___m_c_p4018_1_1_easy_c.html#a2b3823319b37c72cbe4161d9d7e1e778',1,'EASYC_SOLDERED_MCP4018::EasyC']]]
 ];
