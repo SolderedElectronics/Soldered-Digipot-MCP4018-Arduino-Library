@@ -43,10 +43,10 @@
     | PROJECT_NUMBER - to 1.0.0
     | PROJECT_BRIEF  - same as library.properties paragraph
 ✅ | Update @authors to your name in all source files (search and replace in vsc works fine)
-❌ | Push to dev
+✅ | Push to dev
     | Check if Github Actions made a push to main and if so make a release with version 1.0.0
-❌ | Set GitHub pages settings
+✅ | Set GitHub pages settings
     | Visit https://github.com/e-radionicacom/[repo name]/settings/pages
     | Change to gh-pages branch and /docs folder
-❌ | Check if docs are made correctly
+✅ | Check if docs are made correctly
 ❌ | PR to Arduino Library Manager if not done already
