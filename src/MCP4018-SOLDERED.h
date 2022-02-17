@@ -13,7 +13,7 @@
 #define __DIGIPOT_MCP4018__
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
+#include "libs/Generic-easyC/easyC.hpp"
 
 #define MCP4018_I2C_ADDRESS 0x2F
 
