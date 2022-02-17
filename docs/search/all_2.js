@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___m_c_p4018_1_1_easy_c.html#a216dc4601293fe0e7a1910eb398bc90c',1,'EASYC_SOLDERED_MCP4018::EasyC::begin()'],['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___m_c_p4018_1_1_easy_c.html#a82132c515e015787a69b02d340021c0c',1,'EASYC_SOLDERED_MCP4018::EasyC::begin(uint8_t _address)']]],
-  ['begindone_1',['beginDone',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___m_c_p4018_1_1_easy_c.html#a37b93ec943ef21101acc532a92a936f8',1,'EASYC_SOLDERED_MCP4018::EasyC']]]
+  ['begin_0',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]],
+  ['begindone_1',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]]
 ];

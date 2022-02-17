@@ -26,9 +26,6 @@ var NAVTREE =
 [
   [ "Digipot MCP4018 Library", "index.html", [
     [ "Digipot MCP4018 Arduino library", "index.html", null ],
-    [ "Namespaces", "namespaces.html", [
-      [ "Namespace List", "namespaces.html", "namespaces_dup" ]
-    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['address_0',['address',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___m_c_p4018_1_1_easy_c.html#a2f1da21183b127a8448a5ab2938e8b70',1,'EASYC_SOLDERED_MCP4018::EasyC']]]
+  ['address_0',['address',['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC']]]
 ];
