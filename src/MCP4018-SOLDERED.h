@@ -17,7 +17,7 @@
 
 #define MCP4018_I2C_ADDRESS 0x2F
 
-class MCP4018_SOLDERED : public EASYC_SOLDERED_MCP4018::EasyC
+class MCP4018_SOLDERED : public EasyC
 {
   public:
     MCP4018_SOLDERED();
