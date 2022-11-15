@@ -25,7 +25,9 @@
 var NAVTREE =
 [
   [ "Digipot MCP4018 Library", "index.html", [
-    [ "Digipot MCP4018 Arduino library", "index.html", null ],
+    [ "Digipot MCP4018 Arduino library", "index.html", [
+      [ "Have fun!", "index.html#autotoc_md8", null ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
