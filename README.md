@@ -6,18 +6,15 @@
 
 | ![Digipot 5k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------------: |
-
-| [Digipot 5k MCP4018 breakout](https://www.solde.red/333090)
+| [Digipot 5k MCP4018 breakout](https://www.solde.red/333090) |
 
 | ![Digipot 10k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------------------------------------------------: |
-
-| [Digipot 10k MCP4018 breakout](https://www.solde.red/333091)
+| [Digipot 10k MCP4018 breakout](https://www.solde.red/333091) |
 
 | ![Digipot 50k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------------------------------------------------: |
-
-| [Digipot 50k MCP4018 breakout](https://www.solde.red/333092)
+| [Digipot 50k MCP4018 breakout](https://www.solde.red/333092) |
 
 | ![Digipot 100k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :-----------------------------------------------------------------------------------------------------: |
