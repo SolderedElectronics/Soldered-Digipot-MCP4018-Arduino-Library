@@ -3,24 +3,28 @@
 [![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library/actions/workflows/make_docs.yml)
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Digipot-MCP4018-Arduino-Library/actions/workflows/arduino_lint.yml)
 
+A digital potentiometer is a device identical to a potentiometer, except that instead of a physical rotating part that adjusts the resistance, it uses digital communication. Namely, the resistance of the digital potentiometer is adjusted via I2C communication.
+
+Our module is based on the MCP4018 IC which has a total of 128 steps between 0 and 5k resistance values. This would mean that it is capable of doing resistance steps of approximately 39ohms. It is controlled via I2C which makes it extremely easy to use.
+
 
 | ![Digipot 5k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------------: |
-| [Digipot 5k MCP4018 breakout](https://www.solde.red/333090) |
+| [Digipot 5k MCP4018 breakout](https://solde.red/333090) |
 
 | ![Digipot 10k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------------------------------------------------: |
-| [Digipot 10k MCP4018 breakout](https://www.solde.red/333091) |
+| [Digipot 10k MCP4018 breakout](https://solde.red/333091) |
 
 | ![Digipot 50k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------------------------------------------------: |
-| [Digipot 50k MCP4018 breakout](https://www.solde.red/333092) |
+| [Digipot 50k MCP4018 breakout](https://solde.red/333092) |
 
 | ![Digipot 100k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :-----------------------------------------------------------------------------------------------------: |
-|                      [Digipot 100k MCP4018 breakout](https://www.solde.red/333093)                      |
+|                      [Digipot 100k MCP4018 breakout](https://solde.red/333093)                      |
 
-Digipot compliant to [easyC ecosystem](https://www.soldered.com/en/easyC).
+Digipot compliant to [easyC ecosystem](https://www.soldered.com/easyC).
 
 ### Repository Contents
 
