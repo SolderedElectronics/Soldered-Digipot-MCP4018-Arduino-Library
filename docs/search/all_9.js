@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['readdata_0',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_1',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_2',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['increment_0',['increment',['../class_m_c_p4018___s_o_l_d_e_r_e_d.html#a64ca7b01cf9b20abd6749efaed877369',1,'MCP4018_SOLDERED']]],
+  ['initializenative_1',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()'],['../class_m_c_p4018___s_o_l_d_e_r_e_d.html#aadae7d7f4ebcd824175bebf6fd96d96f',1,'MCP4018_SOLDERED::initializeNative()']]]
 ];

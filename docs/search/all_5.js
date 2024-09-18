@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['getwiperpercent_0',['getWiperPercent',['../class_m_c_p4018___s_o_l_d_e_r_e_d.html#ac7e0817b472b2cf9eaaebc01a4e90f78',1,'MCP4018_SOLDERED']]],
-  ['getwipervalue_1',['getWiperValue',['../class_m_c_p4018___s_o_l_d_e_r_e_d.html#a10dcafe381222c6edd9c908457d8c782',1,'MCP4018_SOLDERED']]]
+  ['easyc_0',['EasyC',['../class_easy_c.html',1,'EasyC'],['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC::EasyC()']]],
+  ['easyc_2ehpp_1',['easyC.hpp',['../easy_c_8hpp.html',1,'']]],
+  ['err_2',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
 ];
