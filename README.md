@@ -8,19 +8,19 @@ A digital potentiometer is a device identical to a potentiometer, except that in
 Our module is based on the MCP4018 IC which has a total of 128 steps between 0 and 5k resistance values. This would mean that it is capable of doing resistance steps of approximately 39ohms. It is controlled via I2C which makes it extremely easy to use.
 
 
-| ![Digipot 5k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Digipot 5k MCP4018 breakout](https://soldered.com/cdn/shop/files/DSC-7496-4.jpg) |
 | :---------------------------------------------------------------------------------------------------: |
 | [Digipot 5k MCP4018 breakout](https://solde.red/333090) |
 
-| ![Digipot 10k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Digipot 10k MCP4018 breakout](https://soldered.com/cdn/shop/files/DSC-7496-4.jpg) |
 | :----------------------------------------------------------------------------------------------------: |
 | [Digipot 10k MCP4018 breakout](https://solde.red/333091) |
 
-| ![Digipot 50k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Digipot 50k MCP4018 breakout](https://soldered.com/cdn/shop/files/DSC-7496-4.jpg) |
 | :----------------------------------------------------------------------------------------------------: |
 | [Digipot 50k MCP4018 breakout](https://solde.red/333092) |
 
-| ![Digipot 100k MCP4018 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Digipot 100k MCP4018 breakout](https://soldered.com/cdn/shop/files/DSC-7496-4.jpg) |
 | :-----------------------------------------------------------------------------------------------------: |
 |                      [Digipot 100k MCP4018 breakout](https://solde.red/333093)                      |
 
